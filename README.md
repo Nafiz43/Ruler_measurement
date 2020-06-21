@@ -21,11 +21,12 @@ Left = |(x coordinate of left side of scale 1) - (x coordinate of left side of s
 Middle = | (x coordinate of left side of scale 1 + size of scale 1) – (x coordinate of left side of scale 2) |
 Right= |(x coordinate of left side of scale 1 + size of scale 1) - (x coordinate of left side of scale 2 + size of scale 2)|
 
-State Mapping Tree :
+### State Mapping Tree :
 Actions taken at each node (from left to right):
 1. Turn over Scale 1 to Left
 2. Turn over Scale 2 to Left
 3. Turn over Scale 1 to Right
 4. Turn over Scale 2 to Right
 
+![state](https://user-images.githubusercontent.com/43680716/85224949-75046780-b3ef-11ea-8fa2-5f90508edb01.png)
 
